@@ -10,7 +10,7 @@ To explore this, just do:
  git clone https://github.com/fred144/hgcal-py-analysis
 ```
 
-To install dependancies
+To install dependencies
 
 ```bash
  pip install uproot3 awkward0 tqdm ipywidgets scipy
