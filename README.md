@@ -1,6 +1,6 @@
-```
+
 28 March 2022 - Notice, there is an error with the spatial plots; the endcap geometry is seems to be flipped. Will be patched.
-```
+
 # Simple Particle Gun Simulation Analysis
 
 Data generated through CMSSW, analysis done using jupyter notebooks. 
